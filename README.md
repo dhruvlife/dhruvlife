@@ -8,5 +8,6 @@
 
 📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at [dhruv.jabaaz@gmail.com](mailto:dhruv.jabaaz@gmail.com).
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him.
+
 ⚡ Fun fact: When I'm not coding, you'll often find me lost in the world of books, exploring new realms and unraveling mysteries alongside my favorite characters.
