@@ -2,7 +2,7 @@
 
 # 🚀 Dhruv Thakkar  
 
-### Passionate Flutter Developer | Mobile App Enthusiast | Problem Solver  
+### Dedicated Flutter Developer | Mobile App Enthusiast | Problem Solver  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&color=F72288&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub!;Building+Scalable+Flutter+Apps!)](https://github.com/dhruvlife)
 
@@ -24,11 +24,11 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 ## 🔥 What I Do  
 
-✅ **Flutter Development** – Creating cross-platform mobile apps with sleek UI/UX.  
-✅ **State Management** – Expertise in **GetX, Provider, and Riverpod**.  
-✅ **Backend Integration** – Experience with **Firebase, REST APIs, and Node.js**.  
-✅ **Scalable Code Architecture** – Implementing **MVC, Clean Code, and Modularization**.  
-✅ **Open Source Contributions** – Actively participating in community-driven projects.  
+**Flutter Development** – Creating cross-platform mobile apps with sleek UI/UX.  
+**State Management** – Expertise in **GetX, Provider, and Riverpod**.  
+**Backend Integration** – Experience with **Firebase, REST APIs, and Node.js**.  
+**Scalable Code Architecture** – Implementing **MVC, Clean Code, and Modularization**.  
+**Open Source Contributions** – Actively participating in community-driven projects.  
 
 ---
 
