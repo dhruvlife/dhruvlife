@@ -46,5 +46,3 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 💼 **LinkedIn:** [Dhruv Thakkar](https://www.linkedin.com/in/dhruv-thakkar-6786b32a8/)  
 
 ---
-
-⚡ **Fun Fact**: When I'm not coding, you'll find me **exploring tech innovations, reading books, or brainstorming new app ideas**! 🚀📖  
