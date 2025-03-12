@@ -39,6 +39,19 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 ---
 
+
+
+Total Visitors : 
+
+
+<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
+
+
+
+
+-
+---
+
 ## 📫 Connect with Me  
 
 📩 **Email:** [dhruv.jabaaz@gmail.com](mailto:dhruv.jabaaz@gmail.com)  
