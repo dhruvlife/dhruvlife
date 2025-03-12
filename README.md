@@ -4,10 +4,6 @@
 
 ### Passionate Flutter Developer | Mobile App Enthusiast | Problem Solver  
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/dhruvlife)  
-[![forthebadge](https://forthebadge.com/images/badges/made-with-flutter.svg)](https://flutter.dev)  
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://github.com/dhruvlife)  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&color=F72288&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub!;Building+Scalable+Flutter+Apps!)](https://github.com/dhruvlife)
 
 </div>
@@ -43,17 +39,11 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 ---
 
-## 📷 Featured Work  
-
-![Flutter Projects](https://github.com/user-attachments/assets/flutter-projects-screenshot.png)  
-
----
-
 ## 📫 Connect with Me  
 
 📩 **Email:** [dhruv.jabaaz@gmail.com](mailto:dhruv.jabaaz@gmail.com)  
 🔗 **GitHub:** [@dhruvlife](https://github.com/dhruvlife)  
-💼 **LinkedIn:** [Dhruv Thakkar](https://www.linkedin.com/in/dhruv-thakkar)  
+💼 **LinkedIn:** [Dhruv Thakkar](https://www.linkedin.com/in/dhruv-thakkar-6786b32a8/)  
 
 ---
 
