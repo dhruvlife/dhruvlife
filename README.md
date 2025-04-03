@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 🚀 Dhruv Thakkar  
+# Dhruv Thakkar  
 
 ### Dedicated Flutter Developer | Mobile App Enthusiast | Problem Solver  
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 🏆 About Me  
+## About Me  
 
 I am a **Flutter Developer** currently interning at **WebCreta Technology**, specializing in **high-performance mobile applications** with clean architecture, reusable widgets, and dynamic data integration.  
 
-💡 **Projects I've Worked On:**  
+ **Projects I've Worked On:**  
 ✔ **SolveQuery (SQ)** – A collaborative problem-solving platform for CS/IT students.  
 ✔ **Hunger Heaven** – A food donation and distribution platform.  
 ✔ **Coffee App** – A beautifully crafted coffee-ordering app with a modern UI.  
@@ -22,7 +22,7 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 ---
 
-## 🔥 What I Do  
+## What I Do  
 
 **Flutter Development** – Creating cross-platform mobile apps with sleek UI/UX.  
 **State Management** – Expertise in **GetX, Provider, and Riverpod**.  
@@ -32,10 +32,10 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 ---
 
-## 🤝 Looking to Collaborate On  
+## Looking to Collaborate On  
 
-💡 **Innovative Flutter Projects** – Apps that push boundaries and solve real-world problems.  
-🔧 **Open-Source Contributions** – Exciting projects where I can learn and share my expertise.  
+ **Innovative Flutter Projects** – Apps that push boundaries and solve real-world problems.  
+ **Open-Source Contributions** – Exciting projects where I can learn and share my expertise.  
 
 ---
 
