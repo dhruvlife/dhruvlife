@@ -26,7 +26,7 @@ I am a **Flutter Developer** currently interning at **WebCreta Technology**, spe
 
 **Flutter Development** – Creating cross-platform mobile apps with sleek UI/UX.  
 **State Management** – Expertise in **GetX, Provider, and Riverpod**.  
-**Backend Integration** – Experience with **Firebase, REST APIs, and Node.js**.  
+**Backend Integration** – Experience with **Firebase, REST APIs**.  
 **Scalable Code Architecture** – Implementing **MVC, Clean Code, and Modularization**.  
 **Open Source Contributions** – Actively participating in community-driven projects.  
 
